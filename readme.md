@@ -26,4 +26,4 @@
 
     ## Создание "сохранений"
 
-    (тут и add, и status, и commit)
+    (тут и add, и status, и commit
